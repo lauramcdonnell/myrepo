@@ -1,2 +1,2 @@
-# myprojectname
+# myrepo
 test for setup
